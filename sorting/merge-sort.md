@@ -1,6 +1,8 @@
 # Merge sort
 
-Merge sort is a **Divide and Conquer algorithm**. The main idea is to create an auxiliary array, divide the original array into halves recursively, and compare each elements of these two arrays then put the smaller number to the auxiliary array. For each recursion, two sorts and one merge are executed. 
+Merge sort is a **Divide and Conquer algorithm**. The main idea is to create an auxiliary （辅助的） array, divide the original array into halves recursively, and compare each elements of these two arrays then put the smaller number to the auxiliary array. For each recursion, two sorts and one merge are executed. 
+
+把一个大的无序数组分割成两个小数组，小数组再次分割成两个更小的数组，直到每个小数组里只有不多于两个元素。先将小数组各自排序，再与原来跟它相邻的数组归并，直到归并成一个大数组。 
 
 O\(nlogn\), **O\(n\)**
 
