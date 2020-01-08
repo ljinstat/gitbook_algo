@@ -20,3 +20,22 @@ class Solution():
             
 ```
 
+优化：如果在一次循环里面都没有发生元素交换，那么说明数组已经是有序的，直接可以结束循环
+
+```text
+class Solution():
+    def bubble_sort(self, arr):
+        if not arr or len(arr) == 1:
+            return arr
+        n = len(arr)
+        for i in range(n): # only to control the last element
+            flag = True
+            for j in range(n-i-1):
+                if arr[j] > arr[j+1]:
+                    flag = False
+                    arr[j], arr[j] = arr[j], arr[i]
+            if flag:
+                break
+        return arr
+```
+

@@ -52,6 +52,7 @@
 * [Selection Sort](sorting/selection-sort.md)
 * [Insert sort](sorting/insert-sort.md)
 * [Bubble sort](sorting/bubble-sort.md)
+* [Untitled](sorting/untitled-2.md)
 
 ## Tree
 
