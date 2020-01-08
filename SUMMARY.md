@@ -50,6 +50,7 @@
 * [179. Largest Number \(medium\)](sorting/untitled-1.md)
 * [796. Rotate String \(easy ?\)](sorting/796.-rotate-string-easy.md)
 * [Selection Sort](sorting/selection-sort.md)
+* [Insert sort](sorting/insert-sort.md)
 
 ## Tree
 
