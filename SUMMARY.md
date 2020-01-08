@@ -51,6 +51,7 @@
 * [796. Rotate String \(easy ?\)](sorting/796.-rotate-string-easy.md)
 * [Selection Sort](sorting/selection-sort.md)
 * [Insert sort](sorting/insert-sort.md)
+* [Bubble sort](sorting/bubble-sort.md)
 
 ## Tree
 
