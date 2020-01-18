@@ -272,6 +272,7 @@
 * [155. Min Stack \(easy\)](stack-and-queue/155.-min-stack-easy.md)
 * [946. Validate Stack Sequences （medium）](stack-and-queue/946.-validate-stack-sequences-medium.md)
 * [239. Sliding Window Maximum \(hard\)](stack-and-queue/239.-sliding-window-maximum-hard.md)
+* [Untitled](stack-and-queue/untitled.md)
 
 ## Interview Skills
 
