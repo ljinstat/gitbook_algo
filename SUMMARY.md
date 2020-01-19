@@ -295,3 +295,7 @@
 * [207. Course Schedule \(medium\) BFS](graph/untitled.md)
 * [210. Course Schedule II \(medium\)](graph/210.-course-schedule-ii-medium.md)
 
+## Template
+
+* [n sum template](template/n-sum-template.md)
+
