@@ -38,6 +38,7 @@
 * [40. Combination Sum II \(medium\) DFS](array/40.-combination-sum-ii-medium-dfs.md)
 * [46. Permutations \(medium\) DFS](array/46.-permutations-medium.md)
 * [47. Permutations II \(medium\) DFS](array/47.-permutations-ii-medium.md)
+* [Untitled](array/untitled-2.md)
 
 ## Sorting
 
@@ -90,6 +91,7 @@
 * [49. Group Anagrams \(medium\)](string/49.-group-anagrams-medium.md)
 * [3. Longest Substring Without Repeating Characters （medium）](string/untitled.md)
 * [242. Valid Anagram \(easy\)](string/242.-valid-anagram-easy.md)
+* [125. Valid Palindrome \(easy\)](string/125.-valid-palindrome-easy.md)
 * [8. String to Integer \(atoi\) \(medium\)](string/8.-string-to-integer-atoi-medium.md)
 * [131. Palindrome Partitioning \(medium\) DFS](string/131.-palindrome-partitioning-medium-dfs.md)
 * [127. Word Ladder \(medium\) BFS/Bi-BFS \(TLE\) ???](string/127.-word-ladder-medium-bfs-tle.md)
