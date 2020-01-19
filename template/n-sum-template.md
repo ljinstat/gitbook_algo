@@ -2,9 +2,10 @@
 
 ## Explain
 
-1. sort
-2. condition
-3. compare the sum of left and right with the target
+1. hashtable \(2 sum\) / sorted + two pointers
+2. sort
+3. condition
+4. compare the sum of left and right with the target
 
 ```text
 class Solution:
