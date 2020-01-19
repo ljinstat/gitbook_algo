@@ -26,7 +26,7 @@ class Solution:
                 result[1] = right
             if right < len(nums) - 1 and left == right:
                 right += 1
-            while right < len(sums) - 1 and nums[right] - nums[left] < target:
+            while right < len(nums) - 1 and nums[right] - nums[left] < target:
                 right += 1
         return result
 ```
