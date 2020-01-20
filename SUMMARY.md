@@ -126,6 +126,7 @@
 * [160. Intersection of Two Linked Lists \(easy\)](linked-lists/160.-intersection-of-two-linked-lists-easy.md)
 * [25. Reverse Nodes in k-Group \(hard\)](linked-lists/25.-reverse-nodes-in-k-group-hard.md)
 * [234. Palindrome Linked List \(easy\)](linked-lists/234.-palindrome-linked-list-easy.md)
+* [148. Sort List \(medium\)](linked-lists/148.-sort-list-medium.md)
 
 ## Matrix \(also BFS, DFS\) <a id="matrix"></a>
 
