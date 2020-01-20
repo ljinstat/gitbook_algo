@@ -99,6 +99,7 @@
 * [344. Reverse String \(easy\)](string/344.-reverse-string-easy.md)
 * [13. Roman to Integer \(easy\)](string/13.-roman-to-integer-easy.md)
 * [387. First Unique Character in a String \(easy\)](string/387.-first-unique-character-in-a-string-easy.md)
+* [20. Valid Parentheses \(easy\)](string/20.-valid-parentheses-easy.md)
 
 ## Math
 
