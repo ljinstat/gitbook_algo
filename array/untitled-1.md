@@ -35,6 +35,13 @@ class Solution(object):
                 slow += 1
                 nums[slow] = nums[fast]
         return slow + 1
+        # -----------------------------------
+        i = 0
+        for fast in range(len(nums)):
+            if nums[i] != nums[fast]:
+                slow += 1
+                nums[i] = nums[fast]
+        return slow + 1
 ```
 
 
