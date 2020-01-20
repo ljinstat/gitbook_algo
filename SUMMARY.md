@@ -55,6 +55,7 @@
 * [Bubble sort](sorting/bubble-sort.md)
 * [Shell sort](sorting/untitled-2.md)
 * [56. Merge Intervals \(medium\)](sorting/untitled-3.md)
+* [179. Largest Number \(medium\)](sorting/179.-largest-number-medium.md)
 
 ## Tree
 
