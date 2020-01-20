@@ -255,6 +255,7 @@
 * [162. Find Peak Element \(medium\)](binary-search/162.-find-peak-element-medium.md)
 * [33. Search in Rotated Sorted Array \(medium\) \(important\)](binary-search/33.-search-in-rotated-sorted-array-medium-important.md)
 * [Summary](binary-search/summary.md)
+* [350. Intersection of Two Arrays II \(easy\)](binary-search/350.-intersection-of-two-arrays-ii-easy.md)
 
 ## Backtracking
 
