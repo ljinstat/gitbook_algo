@@ -280,6 +280,7 @@
 * [55. Jump Game \(medium\) \(greedy\)](dynamic-programming/55.-jump-game-medium-greedy.md)
 * [45. Jump Game II \(hard\) \(greedy and DP\) \(unclear\)](dynamic-programming/45.-jump-game-ii-hard-greedy-and-dp.md)
 * [300. Longest Increasing Subsequence \(medium\) \(sequence\)](dynamic-programming/300.-longest-increasing-subsequence-medium-sequence.md)
+* [198. House Robber \(easy\)](dynamic-programming/198.-house-robber-easy.md)
 
 ## stack & queue
 
