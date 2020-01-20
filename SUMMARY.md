@@ -258,6 +258,7 @@
 * [350. Intersection of Two Arrays II \(easy\)](binary-search/350.-intersection-of-two-arrays-ii-easy.md)
 * [69. Sqrt\(x\) \(easy\)](binary-search/69.-sqrt-x-easy.md)
 * [230. Kth Smallest Element in a BST \(medium\)](binary-search/230.-kth-smallest-element-in-a-bst-medium.md)
+* [287. Find the Duplicate Number \(medium\)](binary-search/287.-find-the-duplicate-number-medium.md)
 
 ## Backtracking
 
