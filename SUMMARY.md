@@ -315,4 +315,5 @@
 * [n sum template](template/n-sum-template.md)
 * [two pointers template](template/two-pointers-template.md)
 * [tree template](template/tree-template.md)
+* [linked list template](template/linked-list-template.md)
 
