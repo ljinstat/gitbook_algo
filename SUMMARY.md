@@ -38,7 +38,7 @@
 * [40. Combination Sum II \(medium\) DFS](array/40.-combination-sum-ii-medium-dfs.md)
 * [46. Permutations \(medium\) DFS](array/46.-permutations-medium.md)
 * [47. Permutations II \(medium\) DFS](array/47.-permutations-ii-medium.md)
-* [Untitled](array/untitled-2.md)
+* [66. Plus One \(easy\)](array/untitled-2.md)
 
 ## Sorting
 
