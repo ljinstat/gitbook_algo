@@ -39,6 +39,7 @@
 * [46. Permutations \(medium\) DFS](array/46.-permutations-medium.md)
 * [47. Permutations II \(medium\) DFS](array/47.-permutations-ii-medium.md)
 * [66. Plus One \(easy\)](array/untitled-2.md)
+* [78. Subsets \(medium\)](array/78.-subsets-medium.md)
 
 ## Sorting
 
