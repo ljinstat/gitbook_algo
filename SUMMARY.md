@@ -87,6 +87,7 @@
 * [114. Flatten Binary Tree to Linked List \(medium\)](tree/114.-flatten-binary-tree-to-linked-list-medium.md)
 * [242. Convert Binary Tree to Linked Lists by Depth \(lintcode\) BFS](tree/242.-convert-binary-tree-to-linked-lists-by-depth-lintcode-bfs.md)
 * [108. Convert Sorted Array to Binary Search Tree \(easy\)](tree/108.-convert-sorted-array-to-binary-search-tree-easy.md)
+* [105. Construct Binary Tree from Preorder and Inorder Traversal \(medium\)](tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal-medium.md)
 
 ## String
 
