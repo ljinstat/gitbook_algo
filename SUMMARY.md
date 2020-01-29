@@ -41,6 +41,7 @@
 * [47. Permutations II \(medium\) DFS](array/47.-permutations-ii-medium.md)
 * [66. Plus One \(easy\)](array/untitled-2.md)
 * [78. Subsets \(medium\) DFS](array/78.-subsets-medium.md)
+* [380. Insert Delete GetRandom O\(1\) \(medium\)](array/380.-insert-delete-getrandom-o-1-medium.md)
 
 ## Sorting
 
