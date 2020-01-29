@@ -140,6 +140,7 @@
 * [240. Search a 2D Matrix II](matrix/240.-search-a-2d-matrix-ii.md)
 * [54. Spiral Matrix \(medium\)](matrix/5.-ti-huan-kong-ge-string.md)
 * [48. Rotate Image \(medium\)](matrix/48.-rotate-image-medium.md)
+* [73. Set Matrix Zeroes \(medium\)](matrix/73.-set-matrix-zeroes-medium.md)
 * [200. Number of Islands \(medium\) BFS](matrix/untitled.md)
 * [598. Zombie in Matrix \(medium\) BFS](matrix/598.-zombie-in-matrix-medium.md)
 * [Knight Shortest Path \(lintcode\) BFS](matrix/knight-shortest-path-lintcode.md)
