@@ -322,4 +322,5 @@
 * [two pointers template](template/two-pointers-template.md)
 * [tree template](template/tree-template.md)
 * [linked list template](template/linked-list-template.md)
+* [DFS backtrack template](template/dfs-backtrack-template.md)
 
