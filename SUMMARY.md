@@ -24,6 +24,7 @@
 * [1. Two Sum \(easy\)](array/1.-two-sum-easy.md)
 * [4. Median of Two Sorted Arrays \(hard\) \[unfinished\]](array/4.-median-of-two-sorted-arrays-hard-unfinished.md)
 * [138. Subarray Sum \(easy lintcode\)](array/138.-subarray-sum-easy-lintcode.md)
+* [152. Maximum Product Subarray \(medium\)](array/152.-maximum-product-subarray-medium.md)
 * [170. Two Sum III - Data structure design \(locked\)](array/170.-two-sum-iii-data-structure-design.md)
 * [587. Two Sum - Unique pairs \[LintCode\]](array/587.-two-sum-unique-pairs-lintcode.md)
 * [15. 3Sum \(medium\)](array/15.-3sum-medium.md)
