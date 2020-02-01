@@ -43,6 +43,7 @@
 * [66. Plus One \(easy\)](array/untitled-2.md)
 * [78. Subsets \(medium\) DFS](array/78.-subsets-medium.md)
 * [380. Insert Delete GetRandom O\(1\) \(medium\)](array/380.-insert-delete-getrandom-o-1-medium.md)
+* [350. Intersection of Two Arrays II \(easy\)](array/350.-intersection-of-two-arrays-ii-easy.md)
 
 ## Sorting
 
