@@ -108,6 +108,7 @@
 * [13. Roman to Integer \(easy\)](string/13.-roman-to-integer-easy.md)
 * [387. First Unique Character in a String \(easy\)](string/387.-first-unique-character-in-a-string-easy.md)
 * [20. Valid Parentheses \(easy\)](string/20.-valid-parentheses-easy.md)
+* [202. Happy Number \(easy\)](string/202.-happy-number-easy.md)
 
 ## Math
 
@@ -117,6 +118,7 @@
 * [400. Nth Digit \(easy ?? I dislike it.\)](math/400.-nth-digit-easy-i-dislike-it..md)
 * [264. Ugly Number II \(medium\)](math/264.-ugly-number-ii-medium.md)
 * [846. Hand of Straights \(medium\)](math/846.-hand-of-straights-medium.md)
+* [204. Count Primes \(easy\)](math/204.-count-primes-easy.md)
 
 ## Linked Lists
 
