@@ -139,6 +139,7 @@
 * [25. Reverse Nodes in k-Group \(hard\)](linked-lists/25.-reverse-nodes-in-k-group-hard.md)
 * [234. Palindrome Linked List \(easy\)](linked-lists/234.-palindrome-linked-list-easy.md)
 * [148. Sort List \(medium\)](linked-lists/148.-sort-list-medium.md)
+* [2. Add Two Numbers \(medium\)](linked-lists/2.-add-two-numbers-medium.md)
 
 ## Matrix \(also BFS, DFS\) <a id="matrix"></a>
 
