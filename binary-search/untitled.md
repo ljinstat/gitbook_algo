@@ -21,7 +21,6 @@ Output: [3,4]
 * template: 
 * while start + 1 &lt; end:
 * mid = start + \(end - start\) // 2
-* pay attention when copying the first part to the second part, don't copy results = \[\]
 
 ## Solution:
 

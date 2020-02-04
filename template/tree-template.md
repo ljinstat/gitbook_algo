@@ -1,5 +1,53 @@
 # tree template
 
+## Questions categories
+
+* validate return boolean
+
+     same tree
+
+     symmetric tree
+
+     balanced binary tree
+
+     validate BST
+
+     subtree of another tree
+
+* traversal
+
+     preorder, inorder, level order, zigzag level order, postorder
+
+     inorder:
+
+     kth smallest element in a bst
+
+     validate bst
+
+* construct tree
+
+     convert sorted array to a binary search tree
+
+     construct binary tree from preorder and inorder traversal
+
+     convert bst to double linked list
+
+     flatten binary tree to linked list
+
+     convert binary tree to linked list by depth
+
+* others:
+
+     lowest common ancestor of a binary tree
+
+     lowest common ancestor of a bst
+
+     maximum depth of a binary tree
+
+     path sum \(1 2\)
+
+     binary tree path
+
 1. divide and conquer
 2. DFS recursion
 

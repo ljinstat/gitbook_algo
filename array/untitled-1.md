@@ -20,10 +20,6 @@ It doesn't matter what you leave beyond the returned length.
 
 Two pointers: fast and slow
 
-if nums\[fast\] == nums\[slow\], skip duplicates
-
-if nums\[fast\] != nums\[slow\], copy the value to nums\[slow+1\]
-
 ## Solution:
 
 ```text
@@ -38,13 +34,6 @@ class Solution(object):
             if nums[slow] != nums[fast]:
                 slow += 1
                 nums[slow] = nums[fast]
-        return slow + 1
-        # -----------------------------------
-        i = 0
-        for fast in range(len(nums)):
-            if nums[i] != nums[fast]:
-                slow += 1
-                nums[i] = nums[fast]
         return slow + 1
 ```
 
