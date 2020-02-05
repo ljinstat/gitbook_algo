@@ -140,6 +140,7 @@
 * [234. Palindrome Linked List \(easy\)](linked-lists/234.-palindrome-linked-list-easy.md)
 * [148. Sort List \(medium\)](linked-lists/148.-sort-list-medium.md)
 * [2. Add Two Numbers \(medium\)](linked-lists/2.-add-two-numbers-medium.md)
+* [328. Odd Even Linked List \(medium\)](linked-lists/328.-odd-even-linked-list-medium.md)
 
 ## Matrix \(also BFS, DFS\) <a id="matrix"></a>
 
