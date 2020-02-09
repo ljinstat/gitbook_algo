@@ -332,4 +332,5 @@
 * [tree template](template/tree-template.md)
 * [linked list template](template/linked-list-template.md)
 * [DFS backtrack template](template/dfs-backtrack-template.md)
+* [binary search template](template/binary-search-template.md)
 
