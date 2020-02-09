@@ -18,5 +18,15 @@ binary search:
 * search in rotated sorted array\(start and mid\)
 * sqrt\(x\)
 
-
+```text
+left = 0
+right = len(nums) - 1
+while left + 1 < right:
+    mid = left + (right - left) // 2
+    if nums[mid] == target: (nums[mid] > nums[mid+1] and nums[mid] > nums[mid-1])
+    ....
+if nums[left] == target:
+    return left
+...
+```
 
