@@ -13,9 +13,9 @@ class Solution():
             return arr
         n = len(arr)
         for i in range(n): # only to control the last element
-            for j in range(n-i-1):
+            for j in range(n-i-1): # Last i elements are already in place
                 if arr[j] > arr[j+1]:
-                    arr[j], arr[j] = arr[j], arr[i]
+                    arr[j], arr[j+1] = arr[j+1], arr[j]
         return arr
             
 ```
@@ -33,7 +33,7 @@ class Solution():
             for j in range(n-i-1):
                 if arr[j] > arr[j+1]:
                     flag = False
-                    arr[j], arr[j] = arr[j], arr[i]
+                    arr[j], arr[j+1] = arr[j+1], arr[j]
             if flag:
                 break
         return arr
