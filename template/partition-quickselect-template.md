@@ -107,3 +107,42 @@ def partition(self, nums, start, end, k):
     return nums[k]
 ```
 
+4. merge sort
+
+* main function \(mergesort\)
+* sort divide and conquer \(mergesort, mergesort, merge\)
+* merge \(two sets of pointers: start end, left right\) \(return self.results\)
+
+```text
+class Solution:
+	def __init__(self):
+		self.results = []
+
+	def sort_integer(self, nums):
+		if not nums:
+			return 
+		self.mergesort(nums, 0, len(nums)-1)
+		
+	def mergesort(self, nums, start, end):
+		if start < end:
+			mid = start + (end - start) // 2
+			self.mergesort(nums, start, mid)
+			self.mergesort(nums, mid + 1, end)
+			self.merge(nums, start, end)
+			
+	def merge(self, nums, start, end):
+		mid = start + (end - start) // 2
+		left = start
+		right = mid + 1
+		while left <= right and right <= end:
+			if nums[left] < nums[right]:
+				self.results.append(nums[left])
+				left += 1
+			else:
+				self.results.append(nums[right])
+				right += 1
+		self.results += nums[left:right]
+		self.results += nums[right:end+1]
+		return self.results
+```
+
