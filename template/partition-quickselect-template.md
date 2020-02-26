@@ -107,11 +107,12 @@ def partition(self, nums, start, end, k):
     return nums[k]
 ```
 
-4. merge sort
+4. merge sort 
 
 * main function \(mergesort\)
 * sort divide and conquer \(mergesort, mergesort, merge\)
 * merge \(two sets of pointers: start end, left right\) \(return self.results\)
+* 先对半分，再从下到上合成
 
 ```text
 class Solution:
