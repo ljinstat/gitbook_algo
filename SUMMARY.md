@@ -334,4 +334,5 @@
 * [DFS backtrack template](template/dfs-backtrack-template.md)
 * [binary search template](template/binary-search-template.md)
 * [Partition QuickSelect template](template/partition-quickselect-template.md)
+* [Dynamic Programming template](template/dynamic-programming-template.md)
 
