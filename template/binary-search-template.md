@@ -1,7 +1,5 @@
 # binary search template
 
-
-
 binary search:
 
  1. without a single given target increasing/ decreasing/ peak/ vally sequence 
