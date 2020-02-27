@@ -296,6 +296,7 @@
 * [300. Longest Increasing Subsequence \(medium\) \(sequence\)](dynamic-programming/300.-longest-increasing-subsequence-medium-sequence.md)
 * [198. House Robber \(easy\)](dynamic-programming/198.-house-robber-easy.md)
 * [55. Jump Game \(medium\)](dynamic-programming/55.-jump-game-medium.md)
+* [72. Edit Distance \(hard\)](dynamic-programming/72.-edit-distance-hard.md)
 
 ## stack & queue
 
