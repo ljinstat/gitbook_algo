@@ -298,6 +298,8 @@
 * [55. Jump Game \(medium\)](dynamic-programming/55.-jump-game-medium.md)
 * [72. Edit Distance \(hard\)](dynamic-programming/72.-edit-distance-hard.md)
 * [10. Regular Expression Matching \(hard\)](dynamic-programming/10.-regular-expression-matching-hard.md)
+* [Longest common substring](dynamic-programming/longest-common-substring.md)
+* [1143. Longest Common Subsequence \(medium\)](dynamic-programming/1143.-longest-common-subsequence-medium.md)
 
 ## stack & queue
 
