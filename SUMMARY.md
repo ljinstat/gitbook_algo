@@ -297,6 +297,7 @@
 * [198. House Robber \(easy\)](dynamic-programming/198.-house-robber-easy.md)
 * [55. Jump Game \(medium\)](dynamic-programming/55.-jump-game-medium.md)
 * [72. Edit Distance \(hard\)](dynamic-programming/72.-edit-distance-hard.md)
+* [10. Regular Expression Matching \(hard\)](dynamic-programming/10.-regular-expression-matching-hard.md)
 
 ## stack & queue
 

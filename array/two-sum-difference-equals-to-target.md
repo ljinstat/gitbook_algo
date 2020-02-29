@@ -21,13 +21,13 @@ class Solution:
         result = [0, 0]
         right = 0
         for left in range(len(nums)):
-            if right < len(nums) - 1 and left == right:
-                right += 1
-            while right < len(sums) - 1 and nums[right] - nums[left] < target:
-                right += 1
             if nums[right] - nums[left] == target:
                 result[0] = left
                 result[1] = right
+            if right < len(nums) - 1 and left == right:
+                right += 1
+            while right < len(nums) - 1 and nums[right] - nums[left] < target:
+                right += 1
         return result
 ```
 
