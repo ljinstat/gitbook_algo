@@ -125,6 +125,7 @@
 ## Linked Lists
 
 * [206. Reverse Linked List \(easy\)](linked-lists/206.-reverse-linked-list-easy.md)
+* [92. Reverse Linked List II \(medium\)](linked-lists/92.-reverse-linked-list-ii-medium.md)
 * [141. Linked List Cycle \(easy\)](linked-lists/141.-linked-list-cycle-easy.md)
 * [24. Swap Nodes in Pairs \(medium\)](linked-lists/24.-swap-nodes-in-pairs-medium.md)
 * [237. Delete Node in a Linked List \(easy\)](linked-lists/237.-delete-node-in-a-linked-list-easy.md)
