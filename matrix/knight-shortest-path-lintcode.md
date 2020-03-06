@@ -28,7 +28,7 @@ class Solution():
         step = zip(step_x, step_y)
         n = len(grid)
         m = len(grid[0])
-        destination = [n-1, m-1]
+
         while dq:
             size = len(dq)
             for _ in size:
