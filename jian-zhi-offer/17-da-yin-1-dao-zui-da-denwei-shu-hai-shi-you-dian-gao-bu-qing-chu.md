@@ -10,7 +10,7 @@
 * 解法一：在字符串的数字上模拟加法，字符串表达的数字打印出来
 * 解法二：全排列，递归， 把数字的每一位都从0到9排列一遍
 * 前面的代码中，我们都是用一个char型字符表示十进制数字的一位。8个bit的char型字符最多能表示256个字符，而十进制数字只有0-9的10个数字。因此用char型字符串来表示十进制的数字并没有充分利用内存，有一些浪费。有没有更高效的方式来表示大数。 （bitmap）
-* [https://blog.csdn.net/u013063153/article/details/70800381](https://blog.csdn.net/u013063153/article/details/70800381)
+* https://blog.csdn.net/u013063153/article/details/70800381
 * assumption: input: n; output: print numbers; null/empty: " "
 
 ## Solution:
