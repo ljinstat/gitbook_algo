@@ -93,6 +93,7 @@
 * [108. Convert Sorted Array to Binary Search Tree \(easy\)](tree/108.-convert-sorted-array-to-binary-search-tree-easy.md)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal \(medium\)](tree/105.-construct-binary-tree-from-preorder-and-inorder-traversal-medium.md)
 * [116. Populating Next Right Pointers in Each Node \(medium\)](tree/116.-populating-next-right-pointers-in-each-node-medium.md)
+* [124. Binary Tree Maximum Path Sum \(hard\)](tree/124.-binary-tree-maximum-path-sum-hard.md)
 
 ## String
 
