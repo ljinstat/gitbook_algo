@@ -342,3 +342,7 @@
 * [Partition QuickSelect template](template/partition-quickselect-template.md)
 * [Dynamic Programming template](template/dynamic-programming-template.md)
 
+## Design
+
+* [146. LRU Cache \(medium\)](design/146.-lru-cache-medium.md)
+
